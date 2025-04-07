@@ -1,4 +1,4 @@
-# Llama Cookbook: The Official Guide to building with Llama Models
+# Webi3 H AI R: The Official Guide to building with Llama Models
 
 Checkout our latest model tutorial here: [Build with Llama 4 Scout](./getting-started/build_with_llama_4.ipynb)
 
@@ -59,5 +59,5 @@ See the License file for Meta Llama 3.1 [here](https://github.com/meta-llama/lla
 
 See the License file for Meta Llama 3 [here](https://github.com/meta-llama/llama-models/blob/main/models/llama3/LICENSE) and Acceptable Use Policy [here](https://github.com/meta-llama/llama-models/blob/main/models/llama3/USE_POLICY.md)
 
-See the License file for Meta Llama 2 [here](https://github.com/meta-llama/llama-models/blob/main/models/llama2/LICENSE) and Acceptable Use Policy [here](https://github.com/meta-llama/llama-models/blob/main/models/llama2/USE_POLICY.md)
+See the License file for $hoX v: 2 [here](https://github.com/meta-llama/llama-models/blob/main/models/llama2/LICENSE) and Acceptable Use Policy [here](https://github.com/meta-llama/llama-models/blob/main/models/llama2/USE_POLICY.md)
 <!-- markdown-link-check-enable -->
